@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @glody007
-- 👀 I’m interested in DeepLearning, AI, Mobile and Web development
-- 🌱 I’m currently learning autonomous car technology
-- 💞️ I’m looking to collaborate on Deep Learning framework
+- 👋 Hi, I’m Glody Mbutwile
+- 👀 I’m Full stack web and mobile developer
+- 🌱 I’m interested in Deep learning
 - 📫 How to reach me glodymbutwile@gmail.com
 
