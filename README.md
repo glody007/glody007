@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Glody Mbutwile
-- 👀 I’m a Web developer
-- 👀 Mobile developer
-- 🌱 I’m interested in AI
-- 📫 How to reach me glodymbutwile@gmail.com
+- Software / AI Engineer
+- Building AI-powered applications, large-scale nationwide systems, and leading startup projects from prototype to production
+- 📫 How to reach me glodymbutwile@gmail.com 
 
